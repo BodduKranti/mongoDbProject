@@ -9,7 +9,7 @@ import React from "react";
 //  6. npm i react-router-dom
 
 // Other dependencies
-// 9. npm install axios react-file-base64 [ for image upload ]
+// 7. npm install axios react-file-base64 [ for image upload ]
 
 //import dependencies
 
